@@ -2,7 +2,7 @@
   "name": "ipglobal-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rafaelmelon.github.io/ipglobal-app",
+  "homepage": "https://rafaelmelon.github.io/ipglobal-app/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -16,7 +16,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "predeploy": "npm run build",
+    "predeploy": "yarn build",
     "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
