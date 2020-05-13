@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/rafaelmelon/ipglobal-app/static/css/main.67ebe645.chunk.css",
-    "main.js": "/rafaelmelon/ipglobal-app/static/js/main.23a4bf04.chunk.js",
-    "main.js.map": "/rafaelmelon/ipglobal-app/static/js/main.23a4bf04.chunk.js.map",
-    "runtime-main.js": "/rafaelmelon/ipglobal-app/static/js/runtime-main.0f4b7366.js",
-    "runtime-main.js.map": "/rafaelmelon/ipglobal-app/static/js/runtime-main.0f4b7366.js.map",
-    "static/js/2.44a3eefb.chunk.js": "/rafaelmelon/ipglobal-app/static/js/2.44a3eefb.chunk.js",
-    "static/js/2.44a3eefb.chunk.js.map": "/rafaelmelon/ipglobal-app/static/js/2.44a3eefb.chunk.js.map",
-    "index.html": "/rafaelmelon/ipglobal-app/index.html",
-    "precache-manifest.219b434a83aa84f1d0e486ea1c0f7e7d.js": "/rafaelmelon/ipglobal-app/precache-manifest.219b434a83aa84f1d0e486ea1c0f7e7d.js",
-    "service-worker.js": "/rafaelmelon/ipglobal-app/service-worker.js",
-    "static/css/main.67ebe645.chunk.css.map": "/rafaelmelon/ipglobal-app/static/css/main.67ebe645.chunk.css.map",
-    "static/js/2.44a3eefb.chunk.js.LICENSE.txt": "/rafaelmelon/ipglobal-app/static/js/2.44a3eefb.chunk.js.LICENSE.txt"
+    "main.css": "/ipglobal-app/static/css/main.67ebe645.chunk.css",
+    "main.js": "/ipglobal-app/static/js/main.63d8af10.chunk.js",
+    "main.js.map": "/ipglobal-app/static/js/main.63d8af10.chunk.js.map",
+    "runtime-main.js": "/ipglobal-app/static/js/runtime-main.1e62c9bf.js",
+    "runtime-main.js.map": "/ipglobal-app/static/js/runtime-main.1e62c9bf.js.map",
+    "static/js/2.44a3eefb.chunk.js": "/ipglobal-app/static/js/2.44a3eefb.chunk.js",
+    "static/js/2.44a3eefb.chunk.js.map": "/ipglobal-app/static/js/2.44a3eefb.chunk.js.map",
+    "index.html": "/ipglobal-app/index.html",
+    "precache-manifest.f61f6a94ee7a195c157c7e8aa0fce8bf.js": "/ipglobal-app/precache-manifest.f61f6a94ee7a195c157c7e8aa0fce8bf.js",
+    "service-worker.js": "/ipglobal-app/service-worker.js",
+    "static/css/main.67ebe645.chunk.css.map": "/ipglobal-app/static/css/main.67ebe645.chunk.css.map",
+    "static/js/2.44a3eefb.chunk.js.LICENSE.txt": "/ipglobal-app/static/js/2.44a3eefb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0f4b7366.js",
+    "static/js/runtime-main.1e62c9bf.js",
     "static/js/2.44a3eefb.chunk.js",
     "static/css/main.67ebe645.chunk.css",
-    "static/js/main.23a4bf04.chunk.js"
+    "static/js/main.63d8af10.chunk.js"
   ]
 }
