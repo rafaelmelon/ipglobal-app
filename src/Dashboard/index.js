@@ -20,16 +20,10 @@ function Dashboard() {
 
   return (
     <div className="Dashboard">
-      {isLoading ? (
-        "loading..."
-      ) : (
-        <>
-          <h2>Film List</h2>{" "}
-          {films.map((film) => (
-            <Film key={film.original_title} {...{ film }} />
-          ))}
-        </>
-      )}
+      <h2>Film List</h2>
+      {isLoading
+        ? "loading..."
+        : films.map((film) => <Film key={film.original_title} {...{ film }} />)}
     </div>
   );
 }
